@@ -42,5 +42,7 @@ export default {
         method:"put",
         data:teacher
       })
+
+      
   }
 }
